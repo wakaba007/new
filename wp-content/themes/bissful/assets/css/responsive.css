@@ -1,0 +1,626 @@
+@media (max-width: 1799px) {
+    .sw__countdown_wrap:before,
+    .sw__countdown_wrap:after {
+        display: none;
+    }
+
+    .sw__contact-form-v3 {
+        width: 44%;
+    }
+}
+
+@media (max-width: 1399px) {
+    .sw__hero-title {
+        font-size: 90px;
+        line-height: 80px;
+    }
+
+    .sw--fs-105 {
+        font-size: 90px;
+    }
+
+    .sw_contact-form-input {
+        width: 23%;
+    }
+
+    .sw_contact-form {
+        gap: 28px;
+    }
+}
+
+@media (max-width: 1320px) {
+    .sw__hero-v2-right {
+        width: 60%;
+    }
+}
+
+@media (max-width: 1200px) {
+    .sw__hero-left-content {
+        margin-left: 0;
+    }
+
+    .sw__hero::before {
+        transform: translate(0, -25%);
+    }
+
+    .sw_contact-form-input {
+        width: 48%;
+    }
+
+    .sw_contact-form {
+        flex-wrap: wrap;
+        gap: 23px;
+    }
+
+    .sw_contact-details p {
+        width: 100%;
+    }
+
+    .sw__main-header {
+        padding: 20px 0;
+    }
+}
+
+@media (max-width: 1199px) {
+    .sw__hero-title {
+        font-size: 70px;
+        line-height: 70px;
+    }
+
+    .sw--fs-105 {
+        font-size: 70px;
+        line-height: 70px;
+    }
+
+    .Wedding-vactor01, .Wedding-vactor02 {
+        top: -200px !important;
+    }
+
+    .sw_contact-details-item {
+        width: 100%;
+        border-right: none;
+        border-bottom: 1px solid var(--brown-200);
+        justify-content: flex-start;
+    }
+
+}
+
+@media (max-width: 992px) {
+    .sw__hero-v2-content-sub {
+        width: 100%;
+    }
+
+    .Wedding-vactor01, .Wedding-vactor02 {
+        top: -200px !important;
+    }
+
+    .sw__contact-form-v3 {
+        position: initial;
+        width: 100%;
+    }
+
+    .sw__contact-form {
+        margin-top: 40px;
+    }
+
+    .sw_bredcrumb_wrapper_container {
+        padding-top: 125px;
+        height: 210px;
+    }
+
+    .sw__hero-v3 {
+        padding-top: 180px;
+        padding-bottom: 102px;
+    }
+
+}
+
+@media (max-width: 991px) {
+    .sw__hero-v2-main-img {
+        right: initial;
+        top: initial;
+        bottom: -57px;
+        left: 117px;
+    }
+
+    .sw__v2-hero-shapes {
+        width: 100%;
+        position: relative;
+    }
+
+    .sw__v2-hero-shapes .sw__hero-v2-main-sheap2 {
+        min-width: 854px;
+        right: initial;
+        top: initial;
+        bottom: -100px;
+    }
+
+    .sw__hero-title {
+        font-size: 50px;
+    }
+
+    .sw__hero-main-img-bg-shape-2 img {
+        height: 250px;
+        left: 16px;
+    }
+
+
+}
+
+@media (max-width: 768px) {
+    .sw__hero-title {
+        font-size: 52px;
+        line-height: 56px;
+    }
+
+    .sw--fs-105 {
+        font-size: 52px;
+        line-height: 56px;
+    }
+
+    .sw__about-content {
+        padding-top: 0;
+    }
+
+    .sw__about-video {
+        padding-left: 0;
+        background-position: center;
+        margin-top: 30px;
+    }
+
+    .sw__hero-v2::after {
+        content: "";
+        width: 100%;
+        height: 100%;
+        display: block;
+        background-color: rgba(0, 0, 0, 0.637);
+        position: absolute;
+        z-index: 2;
+        top: 0;
+    }
+
+    .pb-200 {
+        padding-bottom: 100px;
+    }
+
+    .pt-165 {
+        padding-top: 100px;
+    }
+
+    .sw__about-company-image-main {
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .sw__about-company-image-card {
+        position: initial;
+        margin-top: 30px;
+    }
+
+    .sw__about-company-image-main img {
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .sw__wedding-date-main {
+        padding: 40px 0;
+    }
+
+    .Wedding-vactor01 {
+        top: -269px;
+    }
+
+    .Wedding-vactor02 {
+        top: -269px;
+    }
+
+    .sw__wedding-cupole i, .sw__wedding-cupole svg {
+        display: none;
+    }
+
+    .sw__service-title {
+        width: 100%;
+    }
+
+    .sw__gallery-middol-left img {
+        height: auto;
+    }
+
+    .sw--fs-50 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .sw--fs-27 {
+        font-size: 20px;
+    }
+
+    .header-rightv3 {
+        display: none;
+    }
+
+    .sw__agewedding-content-shep {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 33px;
+    }
+
+    .sw_contact-form-input {
+        width: 100%;
+    }
+
+    .sw_contact-form-button {
+        width: 100%;
+    }
+
+    .sw_contact-form-button a {
+        width: 100%;
+    }
+
+    .sw_project-banner-img-contain {
+        width: 100%;
+        height: auto;
+        position: initial;
+        margin: 20px auto auto;
+    }
+
+    .sw__contact-form {
+        margin-top: 40px;
+    }
+
+    .sw__copyright-content {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .sw__footer-widget-item {
+        margin-left: initial;
+    }
+
+    .sw__hero {
+        padding: 100px 0;
+    }
+
+    .sw__hero-v2-right {
+        margin-top: 80px;
+        width: 75%;
+    }
+
+    .sw__ageeddingCounter-container-wrrap {
+        gap: 50px;
+    }
+
+    .sw__story-book-content {
+        padding: 30px 30px;
+    }
+
+    .sw__countdown_section {
+        padding: 50px 0 150px 0;
+    }
+
+    .sw__v2-hero-shapes .sw__hero-v2-main-sheap2 {
+        min-width: 854px;
+        right: -57px;
+        bottom: -95px;
+        top: initial;
+    }
+
+    .sw__hero-v2-main-img {
+        right: initial;
+        top: initial;
+        bottom: -40px;
+        left: 50px;
+    }
+
+    .sw__blog-date {
+        padding: 0 5px;
+    }
+    .sw_bredcrumb_right .breadcrumb li {
+        font-size: 20px;
+    }
+
+}
+
+@media (max-width: 767px) {
+    .sw_bredcrumb_right .breadcrumb li {
+        font-size: 16px;
+    }
+    .sw_bredcrumb_right .breadcrumb li+li::before {
+        left: -12px;
+    }
+    .sw_bredcrumb_right .breadcrumb {
+        gap: 20px;
+    }
+    .sw__hero-right-content {
+        padding-top: 30px;
+    }
+
+    .sw__quote-text {
+        font-size: 22px;
+    }
+
+    .sw__about-video {
+        padding: 100px 0;
+    }
+
+    .sw__program-shape-1 {
+        position: absolute;
+        top: 235px;
+        left: 0px;
+    }
+
+    .sw__program-shape-2 {
+        position: absolute;
+        top: 148px;
+        left: 3px;
+    }
+
+    .sw__program-shape-3 {
+        position: absolute;
+        top: 381px;
+        left: 67px;
+    }
+
+    .sw__about {
+        overflow: hidden;
+    }
+
+    .sw__program {
+        overflow: hidden;
+    }
+
+    .sw__guest-item:nth-child(even) {
+        margin-top: 30px;
+    }
+
+    .sw__testimonial-item {
+        flex-wrap: wrap;
+        padding: 40px 30px 40px 30px;
+    }
+
+    .sw__countdown-item {
+        width: 50%;
+    }
+
+    .sw__countdown-item:first-child,
+    .sw__countdown-item:last-child {
+        width: 50%;
+        align-content: center;
+    }
+
+    .sw__countdown-item:after {
+        content: none;
+    }
+
+    .sw__countdown_wrap {
+        flex-wrap: wrap;
+        margin-top: 60px;
+    }
+
+    .sw__newsletter-content {
+        padding: 60px 40px;
+    }
+
+    .sw__gallery-pagination {
+        width: 100%;
+        top: 45px;
+    }
+
+    .sw__main-header-button-menue {
+        justify-content: end;
+    }
+
+    .sw__copyright-nav ul {
+        gap: 5px;
+        flex-direction: column;
+    }
+
+    .sw__about-video {
+        height: 444px;
+    }
+
+    .sw__hero-v2 {
+        padding: 160px 0 120px 0;
+    }
+
+    .sw__hero-v2-content-title {
+        padding: 20px 0;
+    }
+
+    .sw__hero-v2-content-middol {
+        padding: 0;
+    }
+
+    .sw__v2-hero-shapes {
+        bottom: -120px;
+    }
+
+    .sw__story-book-shep-main {
+        display: none;
+    }
+
+    .sw__story-book-content {
+        padding-top: 0;
+    }
+
+    .sw__button.sw__about-contuct-btn.sw__about-company-btnv3:hover:before {
+        left: -100px;
+    }
+
+    .sw__button.sw__about-contuct-btn.sw__about-company-btnv3:hover:after {
+        left: -65px;
+    }
+
+    .sw__button.sw__about-contuct-btn.sw__about-company-btnv3:before {
+        height: 300px;
+        top: -400%;
+        width: 300px;
+        left: -320px;
+    }
+
+    .sw__reviewv3 {
+        padding-bottom: 120px;
+    }
+
+    .sw-about-contain h4,
+    .sw_bredcrumb_right h4,
+    .sw_bredcrumb_right a {
+        font-size: 16px;
+    }
+
+    .sw-about-contain-link i {
+        font-size: 14px;
+    }
+
+    .sw-about-contain-link {
+        gap: 10px;
+    }
+
+    .sw__countdown_section {
+        padding: 0 0 100px 0;
+    }
+
+    .sw__countdown_section .sw__countdown_wrap {
+        margin-top: 0;
+    }
+
+    .sw_comment-button:before {
+        height: 300px;
+        top: -220px;
+    }
+
+    .sw_comment-button:after {
+        height: 350px;
+        top: -15px;
+    }
+
+    .sw_comment-button:hover:before {
+        left: -98px;
+        transition: 0.5s ease;
+    }
+
+    .sw_contact-form-button:hover:after {
+        left: 130px;
+        transition: 0.5s ease;
+    }
+
+    .sw__hero-v3-content-decription {
+        padding: 0;
+    }
+
+    .sw__hero-main-img-bg-shape-2 img {
+        height: 279px;
+        left: 13px;
+    }
+
+    .sw__ageeddingCounter-container-wrrap {
+        padding: 40px 0;
+    }
+
+    .sw__ageeddingCounter-wrrape {
+        width: 140px;
+    }
+    .wd__footer-newsletter{
+        width: 100%;
+    }
+}
+
+@media (max-width: 576px) {
+    .sw_testimonial_slidev3 .swiper-slide {
+        padding: 50px 0;
+    }
+
+    .sw-testimonial-pagination .swiper-button-next:after {
+        right: -94px;
+        margin-top: 0;
+        top: 32px;
+    }
+
+    .swiper-button-next::before {
+        right: -102px;
+        top: 64px;
+    }
+
+    .swiper-button-prev::before {
+        left: 112px;
+        top: 70px;
+    }
+
+    .sw-testimonial-pagination .swiper-button-prev:after {
+        left: 129px;
+        top: 33px;
+    }
+
+    .sw__hero-v3 {
+        padding-top: 170px;
+        padding-bottom: 100px;
+    }
+
+    .sw__hero-v3-main-img-shep {
+        bottom: 20px;
+    }
+
+    .sw_testimonial_slidev3 .sw-testimonial-pagination {
+        display: none !important;
+    }
+
+    .sw_testimonial_slide_itemv3 {
+        padding: 0;
+    }
+
+    .sw__header-three .sw__main-header {
+        padding: 20px 20px;
+    }
+
+
+}
+
+
+@media (min-width: 767px) {
+    .sw_bredcrumb_right .breadcrumb{
+        float:right;
+    }
+    .sw__story-section-title {
+        width: 50%;
+    }
+
+    .sw__gallery-section-title {
+        width: 60%;
+    }
+
+    .sw__guest-section-title {
+        width: 50%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .sw__navmenu > ul{
+        display: inline-flex;
+    gap: 10px;
+    }
+    .sw__header-two .sw__main-header,
+    .sw__main-header{
+        padding:0;
+    }
+    .sw__header-three .sw__main-header {
+    padding: 0px 65px;
+    height:113px;
+    line-height:113px;
+}
+.sw__navmenu{
+    max-height:113px;
+}
+.sw__navmenu > ul > li{
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 113px;
+    float: left;
+}
+}

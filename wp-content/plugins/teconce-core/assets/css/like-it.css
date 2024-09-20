@@ -1,0 +1,5 @@
+.pt-like-it .like-button:before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f004";
+    margin-right: 3px;
+}
